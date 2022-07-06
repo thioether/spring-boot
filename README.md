@@ -4,7 +4,7 @@ Create a REST API with Spring Boot
 
 ## Build
 ```shell
-  mvn clean install
+  ./mvnw clean install
 ```
 
 ## Run
